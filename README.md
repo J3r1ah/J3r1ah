@@ -1,7 +1,14 @@
--  Hi, I’m @J3r1ah 
-- I’m a CS/IT student in the Brooklyn STEAM Center and wannabe software engineer/Developer im also a pretty good engineer  
--  I’m currently learning Cyber on security and Networking and im dabble in a bit of full stack development and free coding
--  I’m looking to collaborate on various projects that are cool "I ENJOY COOL"
+# Hai im Jeriah Oliverasfair 
+I’m a CS/IT student in the Brooklyn STEAM Center and i am currently studying in Full Stack Development in hopes to become a software developer  
+i have learned the essentials of IT From Hardware of Computers to Softwre and how to troubleshoot each of them.
+i have a basic understanding of Cyber Security and its concepts and i also have a basic understanding of Full Stack Developments having a basic proficciency in 3 languages.
+
+# Programming Languages
+
+- HTML
+- CSS
+- Python
+   
   
 
 <!---
