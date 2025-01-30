@@ -9,7 +9,23 @@ i have a basic understanding of Cyber Security and its concepts and i also have 
 - CSS
 - Python
 - and the smallest amout of JavaScript
+
+i use Visual Studio Code for all of my projects but in past projects i have dabbled in replit
+
+# About me
+
+- my fav color is purple
+- i play Guitar
+- my fav food is pasta
+- i love fighting games
+ my youtube channel is here
+
+<p>
+<a href="https://www.youtube.com/watch?v=At8v_Yc044Y">Here</a>
    
+</p>
+
+
   
 
 <!---
