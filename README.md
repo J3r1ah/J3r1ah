@@ -8,6 +8,7 @@ i have a basic understanding of Cyber Security and its concepts and i also have 
 - HTML
 - CSS
 - Python
+- and the smallest amout of JavaScript
    
   
 
