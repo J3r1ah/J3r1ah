@@ -18,10 +18,9 @@ i use Visual Studio Code for all of my projects but in past projects i have dabb
 - i play Guitar
 - my fav food is pasta
 - i love fighting games
- my youtube channel is <p>
-<a href="https://www.youtube.com/watch?v=At8v_Yc044Y">Here</a>
+- my youtube channel is <a href="https://www.youtube.com/watch?v=At8v_Yc044Y">Here</a>
    
-</p>
+
 
 
 
