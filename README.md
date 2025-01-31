@@ -1,24 +1,39 @@
-# Hai im Jeriah Oliverasfair 
-I’m a CS/IT student in the Brooklyn STEAM Center and i am currently studying in Full Stack Development in hopes to become a software developer  
-i have learned the essentials of IT From Hardware of Computers to Softwre and how to troubleshoot each of them.
-i have a basic understanding of Cyber Security and its concepts and i also have a basic understanding of Full Stack Developments having a basic proficciency in 3 languages.
+# 👋 Hi, I'm Jeriah Oliverasfair
 
-# Programming Languages
+I'm a CS/IT student at the Brooklyn STEAM Center, currently studying Full Stack Development with aspirations to become a software developer.
 
+## 🎓 Education
+
+- Studying at Brooklyn STEAM Center
+- Focus: Full Stack Development
+- Additional knowledge: IT essentials, hardware, software troubleshooting, basic Cyber Security concepts
+
+## 💻 Skills
+
+### Programming Languages
 - HTML
 - CSS
 - Python
-- and the smallest amout of JavaScript
+- Basic JavaScript
 
-i use Visual Studio Code for most of my projects but in past projects i have dabbled in replit
+### Development Environment
+- Primary: Visual Studio Code
+- Experience with: Replit
 
-# About me
+## 🌟 About Me
 
-- my fav color is purple
-- i play Guitar
-- my fav food is pasta
-- i love fighting games
-- my youtube channel is <a href="https://www.youtube.com/watch?v=At8v_Yc044Y">Here</a>
+- 🟣 Favorite color: Purple
+- 🎸 Hobby: Playing Guitar
+- 🍝 Favorite food: Pasta
+- 🕹️ Interest: Fighting games
+- 🎥 YouTube: [Check out my channel]<a href"(https://www.youtube.com/watch?v=At8v_Yc044Y)">here</a>
+
+## 🚀 Career Goals
+
+Aspiring to become a software developer, leveraging my education at the Brooklyn STEAM Center[1][5]. The center's innovative approach to career and technical education provides hands-on industry exposure and real-world skills[5], which aligns perfectly with my ambitions.
+
+Feel free to reach out if you'd like to collaborate or chat about tech!
+
    
 
 
