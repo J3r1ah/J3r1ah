@@ -10,7 +10,7 @@ i have a basic understanding of Cyber Security and its concepts and i also have 
 - Python
 - and the smallest amout of JavaScript
 
-i use Visual Studio Code for all of my projects but in past projects i have dabbled in replit
+i use Visual Studio Code for most of my projects but in past projects i have dabbled in replit
 
 # About me
 
