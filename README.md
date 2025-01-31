@@ -26,11 +26,11 @@ I'm a CS/IT student at the Brooklyn STEAM Center, currently studying Full Stack 
 - 🎸 Hobby: Playing Guitar
 - 🍝 Favorite food: Pasta
 - 🕹️ Interest: Fighting games
-- 🎥 YouTube: [Check out my channel]<a href"(https://www.youtube.com/watch?v=At8v_Yc044Y)">here</a>
+
 
 ## 🚀 Career Goals
 
-Aspiring to become a software developer, leveraging my education at the Brooklyn STEAM Center[1][5]. The center's innovative approach to career and technical education provides hands-on industry exposure and real-world skills[5], which aligns perfectly with my ambitions.
+Aspiring to become a software developer, leveraging my education at the Brooklyn STEAM Center. The center's innovative approach to career and technical education provides hands-on industry exposure and real-world skills, which aligns perfectly with my ambitions.
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
 
