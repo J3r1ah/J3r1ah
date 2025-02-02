@@ -1,4 +1,4 @@
-![Header](./header.svg)
+![Header](./hxh-header.svg)
 
 ## 🎓 Education
 
@@ -17,6 +17,13 @@
 ### Development Environment
 - Primary: Visual Studio Code
 - Experience with: Replit
+
+## 🌟 About Me
+
+- 🟣 Favorite color: Purple
+- 🎸 Hobby: Playing Guitar
+- 🍝 Favorite food: Pasta
+- 🕹️ Interest: Fighting games
 
 ## 🚀 Career Goals
 
