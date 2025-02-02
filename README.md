@@ -18,13 +18,6 @@
 - Primary: Visual Studio Code
 - Experience with: Replit
 
-## 🌟 About Me
-
-- 🟣 Favorite color: Purple
-- 🎸 Hobby: Playing Guitar
-- 🍝 Favorite food: Pasta
-- 🕹️ Interest: Fighting games
-
 ## 🚀 Career Goals
 
 Aspiring to become a software developer, leveraging my education at the Brooklyn STEAM Center. The center's innovative approach to career and technical education provides hands-on industry exposure and real-world skills, which aligns perfectly with my ambitions.
