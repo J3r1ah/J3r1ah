@@ -17,6 +17,8 @@
 ### Development Environment
 - Primary: Visual Studio Code
 - Experience with: Replit
+- terminal repl
+- terminal
 
 ## 🚀 Career Goals
 
